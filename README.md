@@ -22,6 +22,6 @@ If you find this image useful here's how you can help:
 
 Run docker image:
 
-	docker pull flanciskinho/tensorflow:1.14.0-gpu-py3
-	docker run -it --rm --name tf flanciskinho/tensorflow:1.14.0-gpu-py3 /bin/bash
+	docker pull flanciskinho/tensorflow:2.0.3-py3
+	docker run -it --rm --name tf flanciskinho/tensorflow:2.0.3-py3 /bin/bash
 
